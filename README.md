@@ -18,7 +18,7 @@ I'm a passionate and enthusiastic Full Stack Web Developer, recently graduated f
 ## Skills and Technologies 🔭
 
 - Front-end: HTML, CSS, JavaScript, React.js, AngularJS, jQuery, Bootstrap
-- Back-end: Node.js, Express.js, MySQL, MongoDB
+- Back-end: Node.js, Express.js, ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - Testing: Jest
 - Version Control: Git, GitHub
 - Deployment: Heroku, Netlify
@@ -35,7 +35,7 @@ Feel free to explore my GitHub repositories for more examples of my work.
 
 ## Education 🌱
 
-- Full Stack Web Development Bootcamp: [Bootcamp Name], Case Western Reserve University 🏫
+- Full Stack Web Development Bootcamp: EdEx, Case Western Reserve University 🏫
 
 ## Get in Touch
 
