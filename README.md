@@ -1,4 +1,4 @@
-## Hello there, I'm Jake 👋
+# Hello there, I'm Jake 👋
 - 😄 Pronouns: (he/him) 
 I'm a passionate and enthusiastic Full Stack Web Developer, recently graduated from a rigorous bootcamp program. I am excited about leveraging my newfound skills to build innovative web applications and contribute to exciting projects. 
 
