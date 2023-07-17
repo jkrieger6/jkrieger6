@@ -1,6 +1,7 @@
 # Hello there, I'm Jake 👋
 - 😄 Pronouns: (he/him) 
-I'm a passionate and enthusiastic Full Stack Web Developer, recently graduated from a rigorous bootcamp program. I am excited about leveraging my newfound skills to build innovative web applications and contribute to exciting projects. 
+I'm a passionate and enthusiastic Full Stack Web Developer, recently graduated from a rigorous bootcamp program. I am excited about leveraging my newfound skills to build innovative web applications and contribute to exciting projects.
+- Checkout my portfolio here: https://jkrieger6.github.io/react-portfolio/
 
 ## Skills, Languages, and Technologies 🔭
 
@@ -30,7 +31,6 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 - Email 📧: jkrieger6@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/jacob-krieger-043066b8/
-- Portfolio: https://jkrieger6.github.io/portfolio/
 
 Let's build something amazing together!
 
